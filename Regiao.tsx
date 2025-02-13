@@ -8,14 +8,14 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from '../../components/ui/accordion';
+} from '@/components/ui/accordion';
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from '../../components/ui/carousel';
+} from '@/components/ui/carousel';
 import {
   Drawer,
   DrawerClose,
@@ -24,9 +24,9 @@ import {
   DrawerFooter,
   DrawerHeader,
   DrawerTitle,
-} from '../../components/ui/drawer';
-import { ScrollArea } from '../../components/ui/scroll-area';
-import { Button } from '../../components/ui/button';
+} from '@/components/ui/drawer';
+import { ScrollArea } from '@/components/ui/scroll-area';
+import { Button } from '@/components/ui/button';
 import InfoItem from './InfoItem';
 import Loading from './loading';
 import { Separator } from '@/components/ui/separator';
